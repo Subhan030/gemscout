@@ -284,11 +284,6 @@ gemscout/
 │   └── writeup.md              # Technical write-up (308 words)
 │
 ├── README.md                   # This file (comprehensive documentation)
-├── QUICKSTART.md               # Quick start guide
-├── REPRODUCIBILITY_AND_PAGINATION.md  # Technical deep-dive
-├── issues.md                   # Data quality issues and fixes
-├── phase.md                    # Phase documentation
-├── backfill_tech_status.py     # Backfill script for tech_status field
 └── .gitignore                  # Git ignore rules
 ```
 
@@ -1014,7 +1009,6 @@ Or use Windows Task Scheduler on Windows.
 1. **Check Logs:** `output/run.log` contains detailed error messages
 2. **Debug Mode:** Run with `--debug` to see browser in action
 3. **Verify Setup:** Run `python gemedge/main.py --check`
-4. **Review Documentation:** See `REPRODUCIBILITY_AND_PAGINATION.md` for technical details
 
 ### Reporting Issues
 
@@ -1032,7 +1026,6 @@ To contribute improvements:
 2. Update documentation
 3. Follow existing code style
 4. Add comments for complex logic
-5. Update `issues.md` if fixing data quality issues
 
 ### Maintenance
 
@@ -1059,11 +1052,9 @@ This project is for educational and research purposes. Ensure compliance with th
 
 ## Additional Resources
 
-- **QUICKSTART.md** - Quick start guide (3 steps)
-- **IMPLEMENTATION_REPORT.md** - Detailed implementation verification
-- **REPRODUCIBILITY_AND_PAGINATION.md** - Technical deep-dive on resumability and pagination
-- **issues.md** - Data quality issues and fixes (Issues 1-6)
-- **output/writeup.md** - Technical write-up and challenges faced
+- **output/writeup.md** - Technical write-up and challenges faced (308 words)
+- **output/insights_report.md** - Procurement insights and analysis
+- **output/run.log** - Detailed execution logs for debugging
 
 ---
 
