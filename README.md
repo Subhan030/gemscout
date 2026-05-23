@@ -255,16 +255,15 @@ Options:
 gemscout/
 ├── gemedge/                    # Source code package
 │   ├── main.py                 # Entry point and orchestrator
-│   ├── scraper.py              # Web scraping logic (800+ lines)
+│   ├── scraper.py              # Web scraping logic (700+ lines)
 │   ├── cleaner.py              # Data cleaning and normalization
 │   ├── insights.py             # Insights generation
 │   ├── packaging.py            # Output formatting and validation
-│   ├── config.py               # Configuration constants
+│   ├── config.py               # Configuration constants (13-column schema)
 │   ├── browser.py              # Browser automation setup
 │   ├── checkpointing.py        # Progress tracking
 │   ├── logger.py               # Logging configuration
 │   ├── requirements.txt        # Python dependencies
-│   ├── README.md               # Package documentation
 │   └── venv/                   # Virtual environment (created during setup)
 │
 ├── checkpoints/                # Progress checkpoints
@@ -272,21 +271,24 @@ gemscout/
 │
 ├── data/                       # Raw data storage
 │   └── raw/                    # Saved HTML evaluation pages (55 files)
+│       ├── GEM_2026_B_*_bid_eval.html   # Bid evaluation pages
+│       ├── GEM_2026_B_*_ra_eval.html    # RA evaluation pages
+│       └── GEM_2026_B_*_eval.html       # Combined evaluation pages
 │
 ├── output/                     # Final deliverables
-│   ├── bids.csv                # Flat dataset (vendor-level rows)
-│   ├── bids.json               # Nested dataset (bid-level objects)
+│   ├── bids.csv                # Flat dataset (251 rows, 13 columns)
+│   ├── bids.json               # Nested dataset (38 bid objects)
 │   ├── insights_report.md      # Summary insights report
 │   ├── cleaned_bids.csv        # Intermediate cleaned data
 │   ├── run.log                 # Detailed execution logs
-│   └── writeup.md              # Technical write-up
+│   └── writeup.md              # Technical write-up (308 words)
 │
-├── README.md                   # This file
+├── README.md                   # This file (comprehensive documentation)
 ├── QUICKSTART.md               # Quick start guide
-├── IMPLEMENTATION_REPORT.md    # Implementation verification
 ├── REPRODUCIBILITY_AND_PAGINATION.md  # Technical deep-dive
 ├── issues.md                   # Data quality issues and fixes
 ├── phase.md                    # Phase documentation
+├── backfill_tech_status.py     # Backfill script for tech_status field
 └── .gitignore                  # Git ignore rules
 ```
 
@@ -418,14 +420,14 @@ gemscout/
 
 **Specifications:**
 - Rows: 251 (varies based on TARGET_ROWS)
-- Columns: 23
+- Columns: 13
 - Encoding: UTF-8 with BOM
-- Size: ~94 KB
+- Size: ~60 KB
 
 **Structure:**
 ```csv
-bid_id,ra_number,bid_type,category,buyer,buyer_name,...
-GEM/2026/B/7484220,GEM/2026/R/670103,RA,Cyber Security Audit,...
+bid_id,category,buyer,quantity,bid_value,award_date,winner_name,winner_price,num_bidders,vendor_name,vendor_rank,vendor_price,status_flag
+GEM/2026/B/7484220,Cyber Security Audit - Security and Compliance Audit,Revenue and Relief Department Jammu and Kashmir,1.0,11000.0,,Cypros Technologies Private Limited Under Pma,11000.0,16,Aks Information Technology Services Private Limited Under Pma,,,unranked_vendor
 ```
 
 **Use Cases:**
@@ -448,21 +450,22 @@ GEM/2026/B/7484220,GEM/2026/R/670103,RA,Cyber Security Audit,...
 [
   {
     "bid_id": "GEM/2026/B/7484220",
-    "ra_number": "GEM/2026/R/670103",
-    "bid_type": "RA",
-    "category": "Cyber Security Audit",
-    "buyer": "Revenue and Relief Department",
-    "buyer_name": "Mohit Heer",
-    "buyer_state": "Jammu & Kashmir",
-    "winner_name": "Cypros Technologies",
+    "category": "Cyber Security Audit - Security and Compliance Audit",
+    "buyer": "Revenue and Relief Department Jammu and Kashmir",
+    "quantity": 1.0,
+    "bid_value": 11000.0,
+    "award_date": null,
+    "winner_name": "Cypros Technologies Private Limited Under Pma",
     "winner_price": 11000.0,
     "num_bidders": 16,
+    "status_flag": "ok",
     "vendors": [
       {
-        "vendor_name": "Cypros Technologies",
+        "vendor_name": "Cypros Technologies Private Limited Under Pma",
         "vendor_rank": "L1",
         "vendor_price": 11000.0,
-        "disqualified": false
+        "disqualified": false,
+        "remarks": ""
       },
       ...
     ]
@@ -482,9 +485,9 @@ GEM/2026/B/7484220,GEM/2026/R/670103,RA,Cyber Security Audit,...
 **Format:** Markdown report
 
 **Specifications:**
-- Word count: 286 words
-- Sections: 3 (Competitive Bids, Price Gap, Repeat Winners)
-- Size: ~1.7 KB
+- Word count: 308 words
+- Sections: 6 (Approach, Tools, Challenges, Failure Handling, Anomaly Detection, Vulnerabilities)
+- Size: ~2.5 KB
 
 **Contents:**
 - Executive summary
@@ -543,40 +546,31 @@ GEM/2026/B/7484220,GEM/2026/R/670103,RA,Cyber Security Audit,...
 
 ### Column Definitions
 
-**Total Columns:** 23
+**Total Columns:** 13
 
 | # | Column Name | Type | Description | Example |
 |---|-------------|------|-------------|---------|
 | 1 | bid_id | string | Bid number | GEM/2026/B/7484220 |
-| 2 | ra_number | string | RA number if applicable | GEM/2026/R/670103 |
-| 3 | bid_type | string | "RA" or "Bid" | RA |
-| 4 | category | string | Item category | Cyber Security Audit |
-| 5 | buyer | string | Department name | Revenue and Relief Department |
-| 6 | buyer_name | string | Officer name | Mohit Heer |
-| 7 | buyer_state | string | State | Jammu & Kashmir |
-| 8 | buyer_organisation | string | Organisation | Financial Commissioner Revenue |
-| 9 | buyer_office | string | Office | Inspector General Of Registrations |
-| 10 | quantity | float | Quantity | 1.0 |
-| 11 | bid_value | float | Total bid value (winner_price × quantity) | 11000.0 |
-| 12 | bid_start_date | datetime | Bid start date | 2026-04-28 |
-| 13 | bid_end_date | datetime | Bid submission deadline (NOT award date) | 2026-05-08 |
-| 14 | bid_validity_days | int | Validity period in days | 150 |
-| 15 | bid_status | string | Active/Awarded/Closed | Active |
-| 16 | contract_duration | string | Contract duration | 1 Month(s) 2 Day(s) |
-| 17 | winner_name | string | L1 winner name | Cypros Technologies |
-| 18 | winner_price | float | L1 winner price | 11000.0 |
-| 19 | num_bidders | int | Number of participating vendors | 16 |
-| 20 | vendor_name | string | Vendor name | Cypros Technologies |
-| 21 | vendor_rank | string | Vendor rank (L1, L2, L3, ...) | L1 |
-| 22 | vendor_price | float | Vendor quoted price | 11000.0 |
-| 23 | status_flag | string | Data quality flag | ok |
+| 2 | category | string | Item category | Cyber Security Audit |
+| 3 | buyer | string | Department name | Revenue and Relief Department Jammu and Kashmir |
+| 4 | quantity | float | Quantity | 1.0 |
+| 5 | bid_value | float | Total bid value (winner_price × quantity) | 11000.0 |
+| 6 | award_date | datetime | Award date (currently not available from portal) | NULL |
+| 7 | winner_name | string | L1 winner name | Cypros Technologies Private Limited Under Pma |
+| 8 | winner_price | float | L1 winner price | 11000.0 |
+| 9 | num_bidders | int | Number of participating vendors | 16 |
+| 10 | vendor_name | string | Vendor name | Cypros Technologies Private Limited Under Pma |
+| 11 | vendor_rank | string | Vendor rank (L1, L2, L3, ...) | L1 |
+| 12 | vendor_price | float | Vendor quoted price | 11000.0 |
+| 13 | status_flag | string | Data quality flag | ok |
 
 ### Important Notes
 
-**bid_end_date vs Award Date:**
-- `bid_end_date` is the submission deadline, NOT the contract award date
-- True award date is not publicly exposed on the portal
-- This field represents when vendors must submit bids by
+**award_date Field:**
+- Currently empty across all records
+- GeM portal does not publicly expose actual contract award dates
+- Only submission deadlines are available on listing pages
+- This field is reserved for future use if award dates become available
 
 **Null Values in vendor_rank:**
 - Approximately 50% of vendor rows have null ranks
@@ -584,11 +578,10 @@ GEM/2026/B/7484220,GEM/2026/R/670103,RA,Cyber Security Audit,...
 - These vendors participated in technical evaluation but did not submit financial bids
 - Flagged as `unranked_vendor` in status_flag
 
-**RA (Reverse Auction) Handling:**
-- Some bids convert to Reverse Auctions after initial bidding
-- `bid_type` indicates if an RA was created
-- `ra_number` stores the RA identifier
-- Award results come from the RA, not the original bid
+**Simplified Schema:**
+- Reduced from 24 columns to 13 core fields
+- Removed: ra_number, bid_type, buyer details (name, state, organisation, office), bid dates (start_date, end_date, validity_days), bid_status, contract_duration, tech_status
+- Focus on essential bid and vendor information for analysis
 
 ### Status Flags
 
@@ -965,7 +958,7 @@ Or use Windows Task Scheduler on Windows.
 ### Data Quality
 
 **Validation Checks:**
-- Schema enforcement (23 columns)
+- Schema enforcement (13 columns)
 - Type validation (numeric, date, string)
 - Null value handling
 - Duplicate detection
