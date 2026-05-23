@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+venv/
+.venv/
+env/
+.env/
+
+# OS-specific files
+.DS_Store
+
+# Logs
+*.log
+gemedge/output/*.log
+
+# Application checkpointing / data (keep .gitkeeps, ignore data files)
+gemedge/checkpoints/*.json
+gemedge/data/raw/*.html
+gemedge/data/raw/*.json
+gemedge/output/*.csv
+gemedge/output/*.json
