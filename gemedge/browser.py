@@ -1,42 +1,47 @@
-"""Reusable Playwright browser context."""
+"""Playwright browser manager for GemEdge."""
 
-from collections.abc import AsyncIterator
 from contextlib import asynccontextmanager
-
-from playwright.async_api import Browser, Page, Route, async_playwright
-
-from config import HEADLESS
-
-USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/124.0.0.0 Safari/537.36"
+from typing import AsyncIterator, Tuple
+from playwright.async_api import async_playwright, Browser, Page, Route
+from gemedge.config import (
+    HEADLESS,
+    USER_AGENT,
+    BLOCKED_RESOURCE_TYPES,
+    ROUTE_GLOB
 )
-BLOCKED_RESOURCE_TYPES = {"image", "font"}
-
-
-async def _block_heavy_assets(route: Route) -> None:
-    """Abort images and fonts to reduce page load cost."""
-    if route.request.resource_type in BLOCKED_RESOURCE_TYPES:
-        await route.abort()
-        return
-    await route.continue_()
-
+from gemedge.logger import logger
 
 @asynccontextmanager
-async def browser_context(
-    headless: bool = HEADLESS,
-    slow_mo: int = 0,
-) -> AsyncIterator[tuple[Browser, Page]]:
-    """Launch Chromium and yield a reusable browser and page tuple."""
-    async with async_playwright() as playwright:
-        browser = await playwright.chromium.launch(headless=headless, slow_mo=slow_mo)
-        context = await browser.new_context(user_agent=USER_AGENT)
-        await context.route("**/*", _block_heavy_assets)
+async def get_browser(slow_mo: float = 0.0) -> AsyncIterator[Tuple[Browser, Page]]:
+    """Launch Playwright Chromium and return a tuple of browser and page instances, blocking images/fonts."""
+    logger.debug("Starting Playwright process...")
+    async with async_playwright() as p:
+        logger.debug("Launching Chromium browser...")
+        browser = await p.chromium.launch(
+            headless=HEADLESS,
+            slow_mo=slow_mo
+        )
+        
+        context = await browser.new_context(
+            user_agent=USER_AGENT
+        )
+        
         page = await context.new_page()
+        
+        async def block_resources(route: Route) -> None:
+            """Block requests for specified resource types to speed up page loads."""
+            resource_type = route.request.resource_type
+            if resource_type in BLOCKED_RESOURCE_TYPES:
+                logger.debug(f"Blocked resource request for type '{resource_type}': {route.request.url}")
+                await route.abort()
+            else:
+                await route.continue_()
+                
+        await page.route(ROUTE_GLOB, block_resources)
+        
         try:
             yield browser, page
         finally:
+            logger.debug("Closing browser context and browser...")
             await context.close()
             await browser.close()
-
