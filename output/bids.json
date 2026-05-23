@@ -1,0 +1,2291 @@
+[
+  {
+    "bid_id": "GEM/2026/B/7484220",
+    "category": "Cyber Security Audit - Security and Compliance Audit",
+    "buyer": "Revenue and Relief Department Jammu and Kashmir",
+    "quantity": 1,
+    "bid_value": 11000.0,
+    "award_date": null,
+    "winner_name": "Cypros Technologies Private Limited Under Pma",
+    "winner_price": 11000.0,
+    "num_bidders": 16,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Aks Information Technology Services Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Allied Boston Consultants India Private Limited Under Pma",
+        "vendor_rank": "L7",
+        "vendor_price": 59000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Anb Solutions Private Limited Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 16000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Arridae Infosec Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Cypros Technologies Private Limited Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 11000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Digital Age Strategies Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Dr Cbs Cyber Security Services Llp Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Dreamworks Infotech Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "G-Info Technology Solutions Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Innovador Infotech Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Levithan Technologies Private Limited Under Pma",
+        "vendor_rank": "L6",
+        "vendor_price": 42480.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Peneto Labs Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Phoenix Technocyber Under Pma",
+        "vendor_rank": "L7",
+        "vendor_price": 59000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Pyramid Cyber Security & Forensic Private Limited Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 11980.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Secnic Consultancy Services Private Limited Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 17650.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Securium Solutions Private Limited Under Pma",
+        "vendor_rank": "L5",
+        "vendor_price": 41300.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7419591",
+    "category": "Scanner (V3)",
+    "buyer": "Ministry of Health and Family WelfareDepartment of Health and Family Welfare",
+    "quantity": 1,
+    "bid_value": 209000.0,
+    "award_date": null,
+    "winner_name": "Vijex Office Equipments Private Limited Under Pma",
+    "winner_price": 209000.0,
+    "num_bidders": 9,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Astric Computers Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 209400.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Cyber Max Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Perfect World Computer Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 209999.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rainbow Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Runvy Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Salasar Techno Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sunce Info Solution Private Limited Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 215280.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Vijex Office Equipments Private Limited Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 209000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Yaru Tech Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7528899",
+    "category": "Cap Stand 40 x 28 inch,Sofa with Table,Cane stand,Box Wall Hanging,Dinning Chair",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 8,
+    "bid_value": 1100704.0,
+    "award_date": null,
+    "winner_name": "Chandra Shekhar Exports(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 137588.0,
+    "num_bidders": 5,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Chandra Shekhar Exports Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Climpex Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 177000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Zior Furniture India Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Chandra Shekhar Exports(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 137588.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Zior Furniture India Private Limited (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 183000.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7557136",
+    "category": "Plain Copier Paper (V3) ISI Marked to IS 14490",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 300,
+    "bid_value": 29970000.0,
+    "award_date": null,
+    "winner_name": "Vaibhav Constructions Under Pma",
+    "winner_price": 99900.0,
+    "num_bidders": 14,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "A1 Print & Advertisement House Llp Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Falcon General Trading Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Kavya Enterprises Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 104400.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Krishna Fabricators Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Maxcom Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Radex Stationery India Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rinkal Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S S Enterprises Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 102600.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shivansh Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Sati Paper Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sky High Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sree Ashapura Papers Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Vaibhav Constructions Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 99900.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Wishbuyy Hub Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7524364",
+    "category": "DATA INPUT DEVICE FOR TRG PURPOSE",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 1,
+    "bid_value": 98300.0,
+    "award_date": null,
+    "winner_name": "Archit Enterprises Under Pma",
+    "winner_price": 98300.0,
+    "num_bidders": 3,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Archit Enterprises Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 98300.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Krishan Enterprises Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 112530.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Hari Traders Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 117160.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7528309",
+    "category": "oil seal assy,relay starter solenoid,main bearing set,pole screw,rep kit hyd brake wheel cyl,filter",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 37,
+    "bid_value": 1025899.0,
+    "award_date": null,
+    "winner_name": "Barmer Motors(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 27727.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "Barmer Motors Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "N R Motors Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rahul Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Barmer Motors(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 27727.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rahul Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 32144.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "N R Motors (Mse)( Mse Social Category:Obc ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 36185.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7528236",
+    "category": "clutch plate,pressure plate,clutch release bearing,wiper blade,gear knop,gear oil tin,brush carrier",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 15,
+    "bid_value": 484785.0,
+    "award_date": null,
+    "winner_name": "Barmer Motors(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 32319.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "Barmer Motors Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "N R Motors Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rahul Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Barmer Motors(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 32319.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rahul Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 36969.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "N R Motors (Mse)( Mse Social Category:Obc ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 40400.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7477632",
+    "category": "Gwarty",
+    "buyer": "Ministry of Home AffairsCentral Armed Police Forces",
+    "quantity": 16200,
+    "bid_value": 3243758400.0,
+    "award_date": null,
+    "winner_name": "Jai Jagdamba Supply Center Under Pma",
+    "winner_price": 200232.0,
+    "num_bidders": 7,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Blue Star Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Harshitpragati Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Jai Jagdamba Supply Center Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 200232.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Suresh Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "White Star Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Blue Star Traders (Mse) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 200556.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "White Star (Mse) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 201690.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7520453",
+    "category": "MEAT DRESSED FROZEN",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 845,
+    "bid_value": 422345787.5,
+    "award_date": null,
+    "winner_name": "Sheetal Associates Under Pma",
+    "winner_price": 499817.5,
+    "num_bidders": 3,
+    "status_flag": "ok, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "Anmol Corporation Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 523900.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Radhe Agency Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 540800.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sheetal Associates Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 499817.5,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7520960",
+    "category": "SEAT REPAIR ARMY BUS",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 25,
+    "bid_value": 1215625.0,
+    "award_date": null,
+    "winner_name": "Choudhary Enterprises Under Pma",
+    "winner_price": 48625.0,
+    "num_bidders": 3,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Aradhya Enterprises Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 62500.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Choudhary Enterprises Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 48625.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Maa Gumano Traders Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 55000.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7429789",
+    "category": "black biomedical waste collection bag size (24 inch x 18 inch) thickness 50 micron,bio medical wast",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 2053,
+    "bid_value": 586544153.0,
+    "award_date": null,
+    "winner_name": "Sameer Sales Under Pma",
+    "winner_price": 285701.0,
+    "num_bidders": 4,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Ramdas Greenplas Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Reticine Pharmaids Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sameer Sales Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 285701.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Ramdas Greenplas Private Limited (Mse) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 286598.8,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7403835",
+    "category": "Hiring of Special Purpose Mining or Earth Moving Machines and Cranes (Shift Based) - As Per Buyer's",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 1,
+    "bid_value": 49300.0,
+    "award_date": null,
+    "winner_name": "G A Enterprises Under Pma",
+    "winner_price": 49300.0,
+    "num_bidders": 4,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Awa Enterprises Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 49600.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "G A Enterprises Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 49300.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Mafhh Enterprises Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 49900.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Onyx Corporation Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7525208",
+    "category": "RING GEAR,CLUTCH COVER ASY,CLUTCH RELEASE BEARING,O RING,CENTERING RING,FUEL FEED PUMP,CLUTCH MASTE",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 19,
+    "bid_value": 968162.86,
+    "award_date": null,
+    "winner_name": "Fair Deal Traders(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 50955.94,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Fair Deal Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Vintage Sales Corporation Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Savlal Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Fair Deal Traders(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 50955.94,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Savlal Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 52389.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Vintage Sales Corporation (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 53418.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527612",
+    "category": "Drawing Roll,Celling Rose,Top 15 Amp,Gyser Bolt,Screw,Caping Casing,MCB 10 Amp,Bulb 9 Watt,Angle Ho",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 464,
+    "bid_value": 36360896.0,
+    "award_date": null,
+    "winner_name": "Aman Trading Co.(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 78364.0,
+    "num_bidders": 4,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Aman Trading Co.(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 78364.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "J.S Traders (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 84028.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Deep Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 86717.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Luckey Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 110325.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7501454",
+    "category": "Pneumatic Tyres for Commercial Vehicles - Diagonal and Radial Ply Marked to IS 15636,COVER OUTER 8.",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 401,
+    "bid_value": 3844908300.0,
+    "award_date": null,
+    "winner_name": "Gee Kay Traders Under Pma",
+    "winner_price": 9588300.0,
+    "num_bidders": 6,
+    "status_flag": "possible_dup",
+    "vendors": [
+      {
+        "vendor_name": "Deepak Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Gee Kay Traders Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 9588300.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rocky Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sethi Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sethi Enterprises (Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 9854510.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rocky Traders (Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 9865895.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7502731",
+    "category": "Pneumatic Tyres for Commercial Vehicles - Diagonal and Radial Ply Marked to IS 15636,TYRE SIZE 18R",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 369,
+    "bid_value": 3680594190.0,
+    "award_date": null,
+    "winner_name": "M/S Raman Trading Corp.(Mii) Under Pma",
+    "winner_price": 9974510.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "M/S Jk Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Raman Trading Corp. Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sanatan Capitals Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Raman Trading Corp.(Mii) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 9974510.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Jk Traders (Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 10245950.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sanatan Capitals (Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 10400996.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7490679",
+    "category": "Offr and Air Crew Ration Cheese Spread,Offr and Air Crew Ration Cheese Slice,Offr and Air Crew Rati",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 567,
+    "bid_value": 134182818.0,
+    "award_date": null,
+    "winner_name": "Sanvi Infra Enterprises Under Pma",
+    "winner_price": 236654.0,
+    "num_bidders": 9,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Janki Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Krishna Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Moy International Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Novastar Energy Consultants Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sanvi Infra Enterprises Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 236654.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Ji Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Shyam Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Skynet International Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Ji Enterprises (Mse,Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 236904.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7479991",
+    "category": "HbA1C Kit Finecare,T3 Kit Finecare,T4 Kit Finecare,TSH Kit Finecare,Feritin Kit Finecare,Cortisol K",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 74645,
+    "bid_value": 163321767100.0,
+    "award_date": null,
+    "winner_name": "Prime Associates(Mse,Mii) Under Pma",
+    "winner_price": 2187980.0,
+    "num_bidders": 7,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Alpha Associates Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Hayyan Machinery Merchants Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prime Associates Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "R.I. Pharamaceuticals Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prime Associates(Mse,Mii) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 2187980.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Hayyan Machinery Merchants (Mse,Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 2190710.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "R.I. Pharamaceuticals (Mse,Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 2278390.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7510815",
+    "category": "Tanker on Agricultural Trailer",
+    "buyer": "Urban Development Department Uttar Pradesh",
+    "quantity": 3,
+    "bid_value": 8700210.0,
+    "award_date": null,
+    "winner_name": "Jay Construction And Supplier Under Pma",
+    "winner_price": 2900070.0,
+    "num_bidders": 2,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Jay Construction And Supplier Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 2900070.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Asian Enterprises Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 2903367.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527267",
+    "category": "SPARK PLUG M14W5DC,PISTON RING SET,GASKET CYL HEAD,CATRIDGE LUB OIL FILTER,SLAVE CYLINDER,PASSENGER",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 17,
+    "bid_value": 271915.0,
+    "award_date": null,
+    "winner_name": "Pooja Sales Corporation( Mse Social Category:General ) Under Pma",
+    "winner_price": 15995.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Akshay Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Pooja Sales Corporation Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sanjeev Motors Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Pooja Sales Corporation( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 15995.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sanjeev Motors( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 16805.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Akshay Enterprises( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 18526.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527240",
+    "category": "ACCELARATOR PEDAL,CARBURATOR ASSY,SPARK PLUG,UNIVERSAL JOINT CROSS,RAM ASSY,LOCK WASHER,BEARING,BRA",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 80,
+    "bid_value": 11223600.0,
+    "award_date": null,
+    "winner_name": "Ankit Associates(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 140295.0,
+    "num_bidders": 8,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Ankit Associates Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Champion Motor Store Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Ds Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Vardhman Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Ankit Associates(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 140295.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Ds Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 143756.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Champion Motor Store (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 148660.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Vardhman Traders (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 148808.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527239",
+    "category": "ASSY HEAD LAMP WITH HALOGEN BULB LH,ASSY HEAD LAMP WITH HALOGEN BULB RH,DIPSTIC,SPEEDO CABLE 3-2 DI",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 16,
+    "bid_value": 196484.16,
+    "award_date": null,
+    "winner_name": "Hindustan Trading Corporation(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 12280.26,
+    "num_bidders": 5,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Gayatri Enterprises Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 20970.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Hindustan Trading Corporation Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prateek Motors Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Hindustan Trading Corporation(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 12280.26,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prateek Motors (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 16970.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527219",
+    "category": "Field coil assy,Kit universal joint,AC compressor,Brush carrier assy,Break shoe lining,Front wind s",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 11,
+    "bid_value": 966295.0,
+    "award_date": null,
+    "winner_name": "Rishab Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 87845.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "R.R Mohinder Pal Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rishab Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shiv Gauri Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rishab Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 87845.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "R.R Mohinder Pal (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 92100.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shiv Gauri Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 101300.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527198",
+    "category": "IGNITION CIOIL,BRAKE SHOE ASSY,CARBURETOR BS-29,SHOCK ABSORBER,PISTON CW RINGS GUDGAON PIN AND CIRC",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 23,
+    "bid_value": 2317620.3000000003,
+    "award_date": null,
+    "winner_name": "Ria Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 100766.1,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Abhishek Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Pahuja Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Ria Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Ria Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 100766.1,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Abhishek Traders (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 111003.5,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Pahuja Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 138200.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527190",
+    "category": "Leather cloth green,Sheet cellular,Plywood MR,Electric welding rod,Angle iron,Steel mild bright,Sea",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 68,
+    "bid_value": 1451596.0,
+    "award_date": null,
+    "winner_name": "Rishab Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 21347.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "R.R Mohinder Pal Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rishab Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shiv Gauri Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Rishab Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 21347.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "R.R Mohinder Pal (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 24600.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shiv Gauri Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 41400.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7489038",
+    "category": "Galvanized pole 9 meter,XLPE Cable for Working Voltage up to and Including 1.1 KV Marked To IS 7098",
+    "buyer": "Urban Development and Environment Department",
+    "quantity": 3060,
+    "bid_value": 6117552000.0,
+    "award_date": null,
+    "winner_name": "Vinayak Under Pma",
+    "winner_price": 1999200.0,
+    "num_bidders": 3,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Devnarayan Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Vinayak Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 1999200.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Devnarayan Enterprises( Mse Social Category:Obc ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 2163000.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7515535",
+    "category": "Straw / Bhusa",
+    "buyer": "Rural Development Department Uttar Pradesh",
+    "quantity": 36452,
+    "bid_value": 1292872099792.0,
+    "award_date": null,
+    "winner_name": "Clear Secured Ventures Private Limited Under Pma",
+    "winner_price": 35467796.0,
+    "num_bidders": 3,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Clear Secured Ventures Private Limited Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 35467796.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S R Associate Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 51871196.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shri Info System & Co. Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 49939240.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7499451",
+    "category": "Meat Dressed Frozen",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 850,
+    "bid_value": 424830000.0,
+    "award_date": null,
+    "winner_name": "Sheetal Associates Under Pma",
+    "winner_price": 499800.0,
+    "num_bidders": 5,
+    "status_flag": "unranked_vendor, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "Anmol Corporation Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Radhe Agency Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sheetal Associates Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 499800.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Anmol Corporation (Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 514250.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Radhe Agency (Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 544000.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7493349",
+    "category": "6530-000017,1005-007814,9520-000001,7930-000015,8305-000049,KND NIV TMAT 121,8340-001140,6810-00000",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 3068,
+    "bid_value": 14741795224.0,
+    "award_date": null,
+    "winner_name": "Advik Work Solutions(Mse,Mii) Under Pma",
+    "winner_price": 4805018.0,
+    "num_bidders": 8,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Advik Work Solutions Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Om Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Samed Plastics Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Ganesh Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Summit Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Advik Work Solutions(Mse,Mii) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 4805018.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Samed Plastics (Mse,Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 4846365.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Summit Enterprises (Mse,Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 4862824.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7465205",
+    "category": "High Mast Lighting Tower for large area with LED Flood Lighting System",
+    "buyer": "Urban Local Bodies",
+    "quantity": 1,
+    "bid_value": 826000.0,
+    "award_date": null,
+    "winner_name": "M/S Ashoka Multiclean Under Pma",
+    "winner_price": 826000.0,
+    "num_bidders": 3,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "A.R.Engineers Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 832000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Ashoka Multiclean Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 826000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Universal Industries Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 828000.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527128",
+    "category": "LEATHER CLOTH BLACK,PLY WOOD FOR GEN PURPOSE,STEEL ANGLES,CROSS ASSY,PASSENGER DRIVER FAN",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 231,
+    "bid_value": 17455977.0,
+    "award_date": null,
+    "winner_name": "Shri Ganesh Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 75567.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Deep Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "National Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shri Ganesh Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shri Ganesh Enterprises(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 75567.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "National Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 92005.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Deep Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 117140.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7527038",
+    "category": "SHEET CELLULAR 37 MM,PLY WOOD FOR GENERAL PURPOSE,FEVICOL SR 998,STEEL ANGLES,ELECT RODES WELDING G",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 96,
+    "bid_value": 5009280.0,
+    "award_date": null,
+    "winner_name": "Prem Motor Store(Mse)( Mse Social Category:General ) Under Pma",
+    "winner_price": 52180.0,
+    "num_bidders": 6,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Amba Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Kissan Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prem Motor Store Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prem Motor Store(Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 52180.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Amba Traders (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 61850.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Kissan Enterprises (Mse)( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 80600.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7526971",
+    "category": "Monthly Basis Cab & Taxi Hiring Services - Premium Sedan; 2500 km x 320 hours; Local,Monthly Basis",
+    "buyer": "Ministry of Petroleum and Natural GasBharat Petroleum Corporation Ltd",
+    "quantity": 2,
+    "bid_value": 3840000.0,
+    "award_date": null,
+    "winner_name": "Rajaratha Tours And Travels( Mse Social Category:General ) Under Pma",
+    "winner_price": 1920000.0,
+    "num_bidders": 5,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Rajaratha Tours And Travels( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 1920000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Blustars Travels Llp( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 1970160.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Sri Durgamba Tours And Travells Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 2096640.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Mother Logistics( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 2206392.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Amaresh Bhovi Groups( Mse Social Category:Sc ) Under Pma",
+        "vendor_rank": "L5",
+        "vendor_price": 2358000.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7526855",
+    "category": "Solar Photovoltaic Water Pumping Systems (V2) as per MNRE Specification",
+    "buyer": "Rural Development Department",
+    "quantity": 1,
+    "bid_value": 225000.0,
+    "award_date": null,
+    "winner_name": "Shree Enterprises( Mse Social Category:Obc ) Under Pma",
+    "winner_price": 225000.0,
+    "num_bidders": 10,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Bhavani Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Devansh Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Parag Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Bhavani Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Enterprises( Mse Social Category:Obc ) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 225000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Bhavani Enterprises( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 349999.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Parag Enterprises( Mse Social Category:Obc ) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 350000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Devansh Enterprises( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 375000.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Shree Bhavani Enterprises( Mse Social Category:General ) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 375000.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7489324",
+    "category": "Super Structure Supply of Combined Toilet Block CTB 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Cor",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 2293,
+    "bid_value": 3320034700.0,
+    "award_date": null,
+    "winner_name": "M/S P.D.Enterprises(Mse,Mii) Under Pma",
+    "winner_price": 1447900.0,
+    "num_bidders": 11,
+    "status_flag": "unranked_vendor",
+    "vendors": [
+      {
+        "vendor_name": "Bharat Metals Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "J. B. Associates Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Amit Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S P.D.Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "N N Banik & Co Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S. B. Trading Company Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Vijay Industries Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S P.D.Enterprises(Mse,Mii) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 1447900.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S. B. Trading Company (Mse,Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 1477900.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Amit Traders (Mse,Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 1782009.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "J. B. Associates (Mse,Mii) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 1783008.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7489244",
+    "category": "Super Structure Supply of Combined Toilet Block CTB 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Cor",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 2293,
+    "bid_value": 3548600940.0,
+    "award_date": null,
+    "winner_name": "S. B. Trading Company(Mse,Mii) Under Pma",
+    "winner_price": 1547580.0,
+    "num_bidders": 16,
+    "status_flag": "unranked_vendor, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "Bharat Metals Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "J. B. Associates Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Amit Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S L.D. Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Mannat Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S P.D.Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Raj Associate, Udmari Borjhargaon, Dekargaon. Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Shree Durga Enterprise Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "N N Banik & Co Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prodigizon (Opc) Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S. B. Trading Company Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S. B. Trading Company(Mse,Mii) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 1547580.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S L.D. Enterprises (Mse,Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 1550080.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prodigizon (Opc) Private Limited (Mse,Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 1732675.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Amit Traders (Mse,Mii) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 1784590.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "J. B. Associates (Mse,Mii) Under Pma",
+        "vendor_rank": "L5",
+        "vendor_price": 1785240.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7489311",
+    "category": "Super Structure Supply of Combined Toilet Block CTB 7.32M x 7.10M x 4.40M Height as per CE HQ 4 Cor",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 2293,
+    "bid_value": 3826521712.0,
+    "award_date": null,
+    "winner_name": "S. B. Trading Company(Mse,Mii) Under Pma",
+    "winner_price": 1668784.0,
+    "num_bidders": 15,
+    "status_flag": "unranked_vendor, repeat_winner",
+    "vendors": [
+      {
+        "vendor_name": "Bharat Metals Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "J. B. Associates Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Amit Traders Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Mannat Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": true,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S P.D.Enterprises Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "N N Banik & Co Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Pem Tsowang Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prodigizon (Opc) Private Limited Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S. B. Trading Company Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Vijay Industries Under Pma",
+        "vendor_rank": null,
+        "vendor_price": null,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "S. B. Trading Company(Mse,Mii) Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 1668784.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Prodigizon (Opc) Private Limited (Mse,Mii) Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 1671784.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "M/S Amit Traders (Mse,Mii) Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 1785700.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "J. B. Associates (Mse,Mii) Under Pma",
+        "vendor_rank": "L4",
+        "vendor_price": 1786109.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Pem Tsowang (Mse,Mii) Under Pma",
+        "vendor_rank": "L5",
+        "vendor_price": 1808950.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  },
+  {
+    "bid_id": "GEM/2026/B/7514794",
+    "category": "Diluent 5 ltr (Mythic 5 vet pro) 5%",
+    "buyer": "Ministry of DefenceDepartment of Military Affairs",
+    "quantity": 1,
+    "bid_value": 6720.0,
+    "award_date": null,
+    "winner_name": "Compact Diagnostics (India) Private Limited Under Pma",
+    "winner_price": 6720.0,
+    "num_bidders": 3,
+    "status_flag": "ok",
+    "vendors": [
+      {
+        "vendor_name": "Chamunda Scientific Medical Co Under Pma",
+        "vendor_rank": "L3",
+        "vendor_price": 7730.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Compact Diagnostics (India) Private Limited Under Pma",
+        "vendor_rank": "L1",
+        "vendor_price": 6720.0,
+        "disqualified": false,
+        "remarks": ""
+      },
+      {
+        "vendor_name": "Kpm Healthcare Under Pma",
+        "vendor_rank": "L2",
+        "vendor_price": 7392.0,
+        "disqualified": false,
+        "remarks": ""
+      }
+    ]
+  }
+]
